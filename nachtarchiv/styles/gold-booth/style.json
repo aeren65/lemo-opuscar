@@ -1,0 +1,12 @@
+{
+ "slug": "gold-booth",
+ "en": "Peeling Wall & Gold Broadcast Booth",
+ "cn": "剥落墙与金色播音间",
+ "based_on": "gilded-illumination",
+ "borrows": ["impasto", "oscilloscope-math"],
+ "size": "1080x1920",
+ "library_version": "d243e74",
+ "created": "2026-11-23",
+ "line": "Painterly interiors where the wall carries the image: a gold padded broadcast booth, a worn grey-green room, and gold oscilloscope lines drawn by the real voice.",
+ "line_cn": "墙承载画面的绘画风室内：金色软包播音间、斑驳的灰绿房间，以及由真实声音画出的金色示波线。"
+}

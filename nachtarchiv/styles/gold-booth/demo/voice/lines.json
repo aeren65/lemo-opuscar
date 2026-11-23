@@ -1,0 +1,146 @@
+[
+ {
+  "id": "v01",
+  "who": "ERZ",
+  "t": 0.2,
+  "text": "Wenn nachts jemand deinen Namen ruft …"
+ },
+ {
+  "id": "v02",
+  "who": "ERZ",
+  "t": 3.5,
+  "text": "antworte niemals."
+ },
+ {
+  "id": "v03",
+  "who": "ERZ",
+  "t": 5.0,
+  "text": "Das sagte meine Großmutter immer."
+ },
+ {
+  "id": "v04",
+  "who": "ERZ",
+  "t": 7.2,
+  "text": "Als ich eines Sommers in ihrem Dorf in der Türkei übernachtete,"
+ },
+ {
+  "id": "v05",
+  "who": "ERZ",
+  "t": 11.4,
+  "text": "hielt ich das für Aberglauben."
+ },
+ {
+  "id": "v06",
+  "who": "ERZ",
+  "t": 14.3,
+  "text": "Um 3:17 Uhr hörte ich die Stimme meiner Mutter.",
+  "say": "Um drei Uhr siebzehn hörte ich die Stimme meiner Mutter."
+ },
+ {
+  "id": "v07",
+  "who": "MUT",
+  "t": 18.0,
+  "text": "„Emre …“",
+  "say": "Emre?"
+ },
+ {
+  "id": "v08",
+  "who": "MUT",
+  "t": 19.3,
+  "text": "„Mach die Tür auf. Ich bin’s.“",
+  "say": "Mach die Tür auf. Ich bin's."
+ },
+ {
+  "id": "v09",
+  "who": "ERZ",
+  "t": 22.7,
+  "text": "Doch meine Mutter war hunderte Kilometer entfernt.",
+  "say": "Doch meine Mutter … war hunderte Kilometer entfernt."
+ },
+ {
+  "id": "v10",
+  "who": "ERZ",
+  "t": 29.3,
+  "text": "Ich ging zum Fenster."
+ },
+ {
+  "id": "v11",
+  "who": "ERZ",
+  "t": 31.1,
+  "text": "Im Hof stand eine Frau, die genauso aussah wie sie."
+ },
+ {
+  "id": "v12",
+  "who": "ERZW",
+  "t": 34.9,
+  "text": "„Mama …?“",
+  "say": "Mama?"
+ },
+ {
+  "id": "v13",
+  "who": "ERZ",
+  "t": 36.3,
+  "text": "Dann flüsterte meine Großmutter hinter mir:"
+ },
+ {
+  "id": "v14",
+  "who": "OMAW",
+  "t": 38.9,
+  "text": "„Schau ihr nicht ins Gesicht.“",
+  "say": "Schau ihr nicht ins Gesicht."
+ },
+ {
+  "id": "v15",
+  "who": "ERZ",
+  "t": 42.3,
+  "text": "Die Gestalt draußen begann plötzlich zu lachen …"
+ },
+ {
+  "id": "v17",
+  "who": "ERZ",
+  "t": 46.8,
+  "text": "… mit der Stimme meiner Großmutter.",
+  "say": "mit der Stimme meiner Großmutter."
+ },
+ {
+  "id": "v18",
+  "who": "ERZ",
+  "t": 49.1,
+  "text": "Und meine echte Großmutter flüsterte:"
+ },
+ {
+  "id": "v19",
+  "who": "OMAW",
+  "t": 51.4,
+  "text": "„Du hast ihr geantwortet.“",
+  "say": "Du hast ihr geantwortet."
+ },
+ {
+  "id": "v20",
+  "who": "OMAW",
+  "t": 53.3,
+  "text": "„Jetzt weiß sie, dass du hier bist.“",
+  "say": "Jetzt weiß sie, dass du hier bist."
+ },
+ {
+  "id": "v21",
+  "who": "ERZ",
+  "t": 56.5,
+  "text": "Folge NACHTARCHIV …",
+  "say": "Folge Nachtarchiv."
+ },
+ {
+  "id": "v22",
+  "who": "ERZS",
+  "t": 58.0,
+  "text": "denn manche Geschichten sollte man niemals um 3:17 Uhr hören.",
+  "say": "denn manche Geschichten sollte man niemals um drei Uhr siebzehn hören."
+ },
+ {
+  "id": "oma_a",
+  "who": "OMA",
+  "t": -1,
+  "text": "Haaaaa.",
+  "say": "Haaaaa."
+ }
+]

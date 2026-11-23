@@ -1,0 +1,14 @@
+NACHTARCHIV · Akte 001 „Die Stimme vor der Tür“ — Peeling Wall & Gold Broadcast Booth demo
+
+Code: written for this film. Small utilities in engine.js (mulberry, h2, vn, fbm, curve/monotone helpers) follow
+Lemo-Opuscar styles/gilded-illumination/demo/lib.js; tools from core/ (render, mux, sfx.py) are used in place.
+Those parts: Lemo-Opuscar, Copyright (c) 2026 Lemomo (LemoLab), https://github.com/lemomo-ai/lemo-opuscar, MIT License
+(full text in the library's LICENSE file).
+
+Fonts:
+- EB Garamond (SemiBold 600, Medium Italic 500), Copyright 2017 The EB Garamond Project Authors, SIL Open Font License 1.1 (fonts/OFL-EBGaramond.txt), via @fontsource/eb-garamond.
+- DejaVu Sans (phone screen), Bitstream Vera / DejaVu fonts licence (free, redistribution allowed).
+
+Voices: Microsoft Edge text-to-speech (edge-tts): de-DE-ConradNeural (narrator), de-DE-AmalaNeural (the mother's voice), de-DE-KatjaNeural (grandmother).
+Whispers and the laugh are made from these voices in audio.py (LPC whisper, cut and pitched syllables).
+Music and sound effects: synthesised in audio.py (drone, low strings, Karplus-Strong pluck, heartbeat, wind, creaks, impact). No samples.
