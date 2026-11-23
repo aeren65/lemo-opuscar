@@ -8,7 +8,7 @@ Alle Geschichten sind Fiktion.
 
 | Akte | Titel | Style | Genre | Schauplatz | Figuren | Twist-Typ |
 |---|---|---|---|---|---|---|
-| [001](AKTE-001.md) · [Film](AKTE-001-film/NACHTARCHIV-AKTE-001.mp4) | Die Stimme vor der Tür | V05 + V01 (Prompts) · gerendert im eigenen Stil *Peeling Wall & Gold Broadcast Booth* | Türkischer Cin-Horror, Paranormal, Psychological | Anatolisches Dorf, Steinhaus der Großmutter, Hof mit Brunnen | Hatice (75), Emre (25), Leyla (52, Foto), Gestalt, Schatten | Imitierte Stimme, gebrochene Regel, „Wer stand hinter mir?“ |
+| [001](AKTE-001.md) · [Film v2](AKTE-001-film/NACHTARCHIV-AKTE-001-v2.mp4) · [Drehbuch v2](AKTE-001-film/DREHBUCH-v2.md) | Die Stimme vor der Tür | V05 + V01 (Prompts) · gerendert im eigenen Stil *Peeling Wall & Gold Broadcast Booth* | Türkischer Cin-Horror, Paranormal, Psychological | Anatolisches Dorf, Steinhaus der Großmutter, Hof mit Brunnen | Hatice (75), Emre (25), Leyla (52, Foto), Gestalt, Schatten | Oma erzählt → 1974 (Yusuf) → Enkel erlebt es; Antwort übers Handy; falsche Oma; Kinderstimme an der Tür; Cliffhanger → PART 2 |
 
 ## Eigene Stile
 
@@ -16,7 +16,7 @@ Alle Geschichten sind Fiktion.
 
 ## Bereits verwendet (nicht wiederholen)
 
-- **Motive:** Name wird nachts gerufen, Stimme eines Angehörigen imitiert, 3:17 Uhr, Öllampe erlischt, Schnitt auf Schwarz vor dem Reveal
+- **Motive:** Name wird nachts gerufen, Stimme eines Angehörigen imitiert, 3:17 Uhr, Antwort übers Handy, 50-Jahre-Zyklus, Schuhe am Brunnen, Hand unter dem Bett, Klopfen an der Haustür, Cliffhanger mit PART 2
 - **Orte:** Anatolisches Bergdorf, Hof mit Maulbeerbaum und Brunnen
 - **Styles:** V05, V01, gold-booth
-- **Rahmen:** Sprecher in der NACHTARCHIV-Sendekabine, am Ende leere Kabine
+- **Rahmen:** Oma erzählt dem Enkel (v2); die Sendekabine (v1) wurde verworfen

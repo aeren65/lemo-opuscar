@@ -1,0 +1,142 @@
+[
+ {
+  "id": "l01",
+  "who": "OMA",
+  "text": "Wenn dich nachts jemand beim Namen ruft … antworte niemals.",
+  "say": "Wenn dich nachts jemand beim Namen ruft … antworte niemals."
+ },
+ {
+  "id": "l02",
+  "who": "EMRE",
+  "text": "Nene … das ist doch nur Aberglaube.",
+  "say": "Nene... das ist doch nur Aberglaube."
+ },
+ {
+  "id": "l03",
+  "who": "OMA",
+  "text": "Das hat mein Bruder Yusuf auch gesagt.",
+  "say": "Das hat mein Bruder Yusuf auch gesagt."
+ },
+ {
+  "id": "l04",
+  "who": "OMA",
+  "text": "Ich war zehn. Wir schliefen in dem Zimmer, in dem du heute schläfst.",
+  "say": "Ich war zehn. Wir schliefen in dem Zimmer, in dem du heute schläfst."
+ },
+ {
+  "id": "l05",
+  "who": "ANNE74",
+  "text": "„Yusuf … komm raus … komm zu mir.“",
+  "say": "Yusuf... komm raus... komm zu mir.",
+  "asr": "Yusuf komm raus komm zu mir"
+ },
+ {
+  "id": "l06",
+  "who": "OMA",
+  "text": "Es war Annes Stimme. Aber Anne … lag neben mir.",
+  "say": "Es war Annes Stimme. Aber Anne... lag neben mir."
+ },
+ {
+  "id": "l07",
+  "who": "YUSUF",
+  "text": "„Anne?“",
+  "say": "Anne?",
+  "asr": ""
+ },
+ {
+  "id": "l08",
+  "who": "OMA",
+  "text": "Er hat geantwortet. Am Morgen war er weg.",
+  "say": "Er hat geantwortet. Am Morgen war er weg."
+ },
+ {
+  "id": "l08b",
+  "who": "OMA",
+  "text": "Nur seine Schuhe standen am Brunnen.",
+  "say": "Nur seine Schuhe standen am Brunnen."
+ },
+ {
+  "id": "l09",
+  "who": "OMA",
+  "text": "Es kommt alle fünfzig Jahre zurück. Und heute Nacht … sind es genau fünfzig Jahre.",
+  "say": "Es kommt alle fünfzig Jahre zurück. Und heute Nacht... sind es genau fünfzig Jahre.",
+  "asr": "Es kommt alle 50 Jahre zurück Und heute Nacht sind es genau 50 Jahre"
+ },
+ {
+  "id": "l10",
+  "who": "MAMA",
+  "text": "„Emre? … Emre, mach auf. Ich bin’s, Mama.“",
+  "say": "Emreh? ... Emreh, mach auf. Ich bin's, Mama."
+ },
+ {
+  "id": "l12",
+  "who": "EMREX",
+  "text": "„Mama?! Gott sei Dank …“",
+  "say": "Mama?! Gott sei Dank!"
+ },
+ {
+  "id": "l13",
+  "who": "MAMAX",
+  "text": "„Endlich … hast du geantwortet.“",
+  "say": "Endlich... hast du geantwortet."
+ },
+ {
+  "id": "l14",
+  "who": "EMREX",
+  "text": "„Nene! Nene, wach auf!“",
+  "say": "Nene! Nene, wach auf!",
+  "asr": "Nene Nene wach auf"
+ },
+ {
+  "id": "l15",
+  "who": "OMAFAKE",
+  "text": "„Emre! Komm raus, schnell! Hier draußen ist es sicher!“",
+  "say": "Emre! Komm raus, schnell! Hier draußen ist es sicher!"
+ },
+ {
+  "id": "l16",
+  "who": "OMAW",
+  "text": "„Nein! Das da draußen … das bin ich nicht!“",
+  "say": "Nein! Das da draußen... das bin ich nicht!"
+ },
+ {
+  "id": "l17",
+  "who": "YUSUF",
+  "text": "„Abla … mach auf. Mir ist so kalt.“",
+  "say": "Abla... mach auf. Mir ist so kalt.",
+  "asr": "mach auf Mir ist so kalt"
+ },
+ {
+  "id": "l18",
+  "who": "OMAW",
+  "text": "„Yusuf …?“",
+  "say": "Yusuf...?",
+  "asr": "Yusuf Jussef"
+ },
+ {
+  "id": "l19",
+  "who": "EMREX",
+  "text": "„Nene, nein!“",
+  "say": "Nene, nein!",
+  "asr": "nein"
+ },
+ {
+  "id": "l20",
+  "who": "NARR",
+  "text": "Aber vor der Tür stand kein Kind.",
+  "say": "Aber vor der Tür... stand kein Kind."
+ },
+ {
+  "id": "l21",
+  "who": "NARR",
+  "text": "Wenn du wissen willst, was dort wartete … schreib PART 2 in die Kommentare.",
+  "say": "Wenn du wissen willst, was dort wartete... schreib Part Two in die Kommentare.",
+  "asr": "Wenn du wissen willst was dort wartete schreib Part 2 in die Kommentare"
+ },
+ {
+  "id": "laugh",
+  "who": "OMA",
+  "text": "",
+  "say": "Haaa."
+ }
+]

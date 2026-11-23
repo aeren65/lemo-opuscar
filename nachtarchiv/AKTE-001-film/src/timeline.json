@@ -1,0 +1,30 @@
+{
+ "dur": 74.6,
+ "voice": {"l01":0.15,"l02":4.0,"l03":6.5,"l04":8.8,"l05":13.3,"l06":16.6,"l07":20.6,"l08":21.7,"l08b":25.0,"l09":27.2,
+   "l10":36.1,"echo":40.3,"l12":45.0,"l13":47.3,"l14":50.1,"l15":52.3,"l16":56.6,"l17":60.6,"l18":63.6,"l19":64.4,"l20":67.7,"l21":70.0},
+ "shots": [
+  ["A",0.0,3.9,"Oma close-up, lamp: the rule"],
+  ["B",3.9,8.6,"Oma's room: Emre laughs, she grabs his wrist"],
+  ["C",8.6,13.1,"1974 (sepia): the same bedroom, Yusuf, Hatice and Anne asleep"],
+  ["D",13.1,16.5,"1974: through the window, a woman in a white scarf at the well calls Yusuf"],
+  ["E",16.5,20.2,"1974: little Hatice turns: Anne is asleep beside her"],
+  ["F",20.2,21.6,"1974: Yusuf sits up: Anne?"],
+  ["G",21.6,23.4,"1974: through the window, Yusuf walks to the well, the woman turns"],
+  ["H",23.4,27.0,"1974 morning: his small black rubber shoes at the well, wet footprints end there"],
+  ["I",27.0,30.4,"present: Oma close-up: fifty years"],
+  ["J",30.4,33.0,"Emre close-up, his smile gone; the clock behind him"],
+  ["K",33.0,34.6,"phone: 03:16 -> 03:17"],
+  ["L",34.6,40.2,"Emre in Yusuf's old bed; his mother's voice outside"],
+  ["M",40.2,43.0,"over his shoulder: the figure at the well; he covers his mouth"],
+  ["N",43.0,45.0,"phone: incoming call Annem"],
+  ["O",45.0,48.3,"Emre answers, relieved, then frozen"],
+  ["P",48.3,50.0,"window: the figure lifts its head, speaking with him"],
+  ["Q",50.0,52.2,"Oma's room: the bed is empty, the lamp burns"],
+  ["R",52.2,56.2,"Oma's voice from the courtyard; he goes toward the door"],
+  ["S",56.2,59.5,"a hand grabs his ankle: Oma under the bed"],
+  ["T",59.5,63.4,"the front door: three knocks, a child's voice"],
+  ["U",63.4,65.3,"Oma's face: Yusuf...? Emre: Nene, nein!"],
+  ["V",65.3,67.5,"the door opens by itself: wet child's shoes, and above them not a child"],
+  ["X",67.5,74.6,"black, the doorway; PART 2"]
+ ]
+}
