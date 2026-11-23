@@ -1,0 +1,14 @@
+{
+ "slug": "goldene-nacht",
+ "en": "Golden Night Explainer",
+ "cn": "金夜讲解",
+ "de": "Goldene Nacht",
+ "based_on": "stick-explainer",
+ "borrows": ["gilded-illumination"],
+ "size": "1080x1920",
+ "library_version": "f9e2042",
+ "created": "2026-11-23",
+ "status": "draft (no style frame or demo film yet)",
+ "line": "Glowing cream-and-gold stick figures and hand-written Arabic verses on black: short vertical explainers on Qur'an and Hadith, every claim sourced on screen.",
+ "line_cn": "黑底上发光的米金色火柴人与逐字书写的阿拉伯经文：竖屏短讲解，每句话都在画面上注明出处。"
+}
