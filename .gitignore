@@ -138,3 +138,5 @@ styles/*/demo/stills/*_v1*
 
 # isometric-picture-book: the character list its font subset step writes
 styles/isometric-picture-book/demo/tools/chars.txt
+# Local secrets written by `elevenlabs onboard`
+/.env.local
